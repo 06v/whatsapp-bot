@@ -4,7 +4,7 @@ This is a simple to use Whatsapp Bot written in Python with Selenium.
 
 ## Instructions
 
-1) Download the Source Code
+1) Download the Source Code & your Chromedriver
 
 2) Open a Terminal / CMD
 
